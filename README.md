@@ -1,1 +1,3 @@
-# jutabaga.github.io
+layout: page
+title: "Poetry Corner"
+permalink: /poetrycorner
