@@ -7,4 +7,3 @@ Please stay a while.
 
 ----
 
-## Flowers
