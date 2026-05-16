@@ -1,4 +1,4 @@
-## Writing exercise 
+## Cafe - Writing exercise 
 
 The cafe is well-lit but somehow still shadowy; 
 customers sit at tables facing the walls, on their phones or with noses in a book, as if afraid of the world.
