@@ -17,7 +17,7 @@ For the mantle.
 
 They stay good for a few days;
 
-And I chance the water and trim
+And I change the water and trim
 
 Their stems like a mother but
 
