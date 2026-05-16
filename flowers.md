@@ -21,7 +21,7 @@ And I change the water and trim
 
 Their stems like a mother but
 
-Inevitable they fade, like old friends.
+Inevitably they fade, like old friends.
 
 They can't fit into the bin all at once, their stalks too tall, 
 
