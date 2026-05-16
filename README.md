@@ -10,3 +10,4 @@ Please stay a while.
 -  <a href="flowers.html"> Flowers</a>
 
 ### Creative Writing
+- <a href="cafe.html"> Cafe</a>
