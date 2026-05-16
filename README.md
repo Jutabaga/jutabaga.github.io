@@ -1,7 +1,7 @@
 # Hello!
-*welcome to the poetry corner*
+*welcome to my creative space!*
 
-This is just a small collection of the poetry I have written.
+This is just a small collection of some things I have written.
 
 Please stay a while.
 
