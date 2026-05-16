@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: Julia's Collection of Creative Writing
 description: a little corner of the internet for my collection of poetry and creative works :-)
 url: "https://jutabaga.github.io"
+og_image: "/assets/images/xmas.png"
