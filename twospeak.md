@@ -2,11 +2,11 @@
 Twospeak
 ---
 
-As of right now, I speak
+As of right now, I speak (officially)
 
-2 official languages.
+Only two languages.
 
-But I feel like there's a secret fourth
+But I feel like there's a secret third
 
 A language I speak only with you
 
