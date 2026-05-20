@@ -1,9 +1,6 @@
-# Hello!
-*welcome to my creative space!*
+### Welcome to Julia's website
 
-This is just a small collection of some things I have written.
-
-Please stay a while.
+This is a space for some bits and bobs I've written over time.
 
 ----
 ### Poetry
