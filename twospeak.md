@@ -12,4 +12,4 @@ But I feel like there's a secret third
 
 A language I speak only with you
 
-And it requires no words.
+Which requires no words.
